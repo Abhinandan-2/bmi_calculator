@@ -1,4 +1,4 @@
-#Wed Jun 29 01:50:21 IST 2022
-base.0=/Users/abhi/StudioProjects/bmi_calculator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Thu Jun 30 00:55:15 IST 2022
+base.0=/Users/abhi/StudioProjects/bmi_calculator/bmi_calculator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
